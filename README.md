@@ -1,7 +1,6 @@
 # MOSGAT
 This repository contains the code of our paper MOSGAT: Uniting Specificity-Aware GATs and Cross Modal-Attention to Integrate Multi-Omics Data for Disease Diagnosis.
-The data used in the paper can be obtained through the following links https://github.com/txWang/MOGONET. The code is implemented on the code provided by MOGONET.
-
+The data used in the paper can be obtained through the following links https://github.com/txWang/MOGONET. 
 # Requirment
 Python 3;  
 Pytorch 2.0.1;   
